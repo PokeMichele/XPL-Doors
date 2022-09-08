@@ -1,0 +1,10 @@
+main: xpldoors.Main
+name: XPL-Doors
+version: 1.0
+author: PokeMichele
+description: Door Explosion Plugin
+api-version: 1.16
+commands: 
+   xpld:
+    description: Main Command
+    aliases: [xpldoors, xpldplace]
